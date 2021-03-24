@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/sinch_lib.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f72d3eb4f788064eeb9082580a2e3b94/sinch_lib/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f72d3eb4f788064eeb9082580a2e3b94/sinch_lib/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f72d3eb4f788064eeb9082580a2e3b94/sinch_lib/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

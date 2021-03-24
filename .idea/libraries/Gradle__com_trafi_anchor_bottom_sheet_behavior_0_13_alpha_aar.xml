@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.trafi:anchor-bottom-sheet-behavior:0.13-alpha@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5287359568f8d93a29b888ff1f0488fe/jetified-anchor-bottom-sheet-behavior-0.13-alpha/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5287359568f8d93a29b888ff1f0488fe/jetified-anchor-bottom-sheet-behavior-0.13-alpha/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5287359568f8d93a29b888ff1f0488fe/jetified-anchor-bottom-sheet-behavior-0.13-alpha/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5287359568f8d93a29b888ff1f0488fe/jetified-anchor-bottom-sheet-behavior-0.13-alpha/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
